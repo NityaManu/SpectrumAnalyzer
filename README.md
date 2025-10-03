@@ -1,4 +1,5 @@
-**Real-Time Audio Spectrum Analyzer**
+#**Real-Time Audio Spectrum Analyzer**
+
 A Real-time Audio Spectrum Analyzer built in MATLAB. This .mlx file consists docmentation of all my learnings for building this from scratch.
 
 #It includes:
